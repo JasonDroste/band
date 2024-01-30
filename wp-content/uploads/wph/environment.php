@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"bb-theme","mapped_name":""},"child_theme":{"folder_name":"bb-theme-child","mapped_name":""},"allowed_paths":["C:\/wamp64\/www\/marcato\/wp-content\/themes"],"cache_path":"C:\/wamp64\/www\/marcato\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/marcato\/"}'; ?>
